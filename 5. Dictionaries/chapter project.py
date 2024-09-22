@@ -1,6 +1,5 @@
 list=["Chris","Annie","Beej","Aaron","Charlie"]
 
-
 d={}
 
 while list:
@@ -14,11 +13,4 @@ while list:
             d[x].append(list[j])
             list.pop(j)
 
-for k in d:
-    d[k]=sorted(d[k])
-
-#d={k:d[k] for k in sorted(d)}
-
-
 print(d)
-print(d.items())
