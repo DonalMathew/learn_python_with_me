@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "90e88b620f299b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2782d6adac565c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70205e10b51863be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Lists/4.2 strings vs lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec38bf845d574052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Lists/4.3 conversions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cad3aea8a0f45620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Dictionaries/5.6 conversions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a6ae1f41f34bf3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Dictionaries/5.6 conversions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce5d24fdc8f69570",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce529c75a93dd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b151a3b6432d9939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47177fb9749e820f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8444a2d958697423",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "227f0ff921ff4ad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "32616901976e707f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3f29e7a9564ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Dictionaries/5.6 conversions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd09547b7f0555f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Dictionaries/5.6 conversions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7330bad9d9ef56d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c06c211a22b4c965",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Dictionaries/5.6 conversions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a6ae1f41f34bf3a",
+  "lastOpenFiles": [
+    "4. Lists/4.3 conversions.md",
+    "3. Strings/all conversions.md",
+    "5. Dictionaries/5.6 conversions.md",
+    "4. Lists/4.2 strings vs lists.md",
+    "5. Dictionaries/5.3 iterating over dicts.md",
+    "5. Dictionaries/5.2 look for a key.md",
+    "5. Dictionaries/5.5 convert key-value pair in dictionary to items in a list.md",
+    "5. Dictionaries/5.4 dicts of dicts.md",
+    "5. Dictionaries/5.1 why dictionaries.md",
+    "2. Flow control and looping/2.3 for loop.md",
+    "4. Lists/4.1 syntax.md",
+    "3. Strings/3.5 Functions vs Methods.md",
+    "3. Strings/3.4 Slices.md",
+    "3. Strings/3.3 String as a List.md",
+    "3. Strings/3.2 Concatenation.md",
+    "3. Strings/3.1 Converting from and to string.md",
+    "2. Flow control and looping/2.4 when while and when for.md",
+    "2. Flow control and looping/2.2 while loop.md",
+    "2. Flow control and looping/2.1 if statement.md",
+    "1. Data and Processing data/1.4 Mutability- c vs python.md",
+    "1. Data and Processing data/1.3 Mutable vs Immutable datatypes.md",
+    "1. Data and Processing data/1.2 All inputs are strings.md",
+    "1. Data and Processing data/1.1 How integers point to memory.md",
+    "Interview master 100/1. two sum.md",
+    "assets/basics.md",
+    "readme.md",
+    "Pasted image 20241015204957.png"
+  ]
+}
