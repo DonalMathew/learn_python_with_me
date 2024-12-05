@@ -25,7 +25,65 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Lists/4.3 conversions.md",
+                "file": "readme.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13066f0c7bd80bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learn dsa/how to approach a problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec9ff51c851ebf50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Lists/4.1 syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f78fd04af5476ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Lists/list (array) functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5833cc8869d4feb5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20241205144250.png"
+              }
+            }
+          },
+          {
+            "id": "844cbcd96b9b0400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "team formation.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +107,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Dictionaries/5.6 conversions.md",
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "084cea70d1087e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codingame/1_the descent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "227f0ff921ff4ad4",
@@ -122,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Dictionaries/5.6 conversions.md",
+                "file": "team formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Dictionaries/5.6 conversions.md",
+                "file": "team formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Dictionaries/5.6 conversions.md"
+                "file": "team formation.md"
               }
             }
           }
@@ -183,34 +253,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a6ae1f41f34bf3a",
+  "active": "844cbcd96b9b0400",
   "lastOpenFiles": [
-    "4. Lists/4.3 conversions.md",
-    "3. Strings/all conversions.md",
-    "5. Dictionaries/5.6 conversions.md",
+    "Pasted image 20241205185500.png",
+    "assets/Pasted image 20241205144250.png",
+    "team formation.md",
+    "Pasted image 20241205144127.png",
+    "previous interviews/no two toppers in same class.md",
+    "Pasted image 20241205144153.png",
+    "4. Lists/initialise all elements as 0.md",
+    "Pasted image 20241205144045.png",
+    "Pasted image 20241205144052.png",
+    "previous interviews",
+    "4. Lists/list (array) functions.md",
+    "learn dsa/time complexity.md",
+    "learn dsa/how to approach a problem.md",
+    "Interview master 100/1. two sum.md",
+    "codingame/1_the descent.md",
+    "readme.md",
+    "4. Lists/4.1 syntax.md",
     "4. Lists/4.2 strings vs lists.md",
+    "4. Lists/4.3 conversions.md",
+    "assets/Pasted image 20241203221152.png",
+    "assets/Pasted image 20241203221238.png",
+    "assets/Pasted image 20241203221223.png",
+    "learn dsa",
+    "assets/Pasted image 20241015204957.png",
+    "5. Dictionaries/5.6 conversions.md",
+    "3. Strings/all conversions.md",
     "5. Dictionaries/5.3 iterating over dicts.md",
     "5. Dictionaries/5.2 look for a key.md",
     "5. Dictionaries/5.5 convert key-value pair in dictionary to items in a list.md",
     "5. Dictionaries/5.4 dicts of dicts.md",
     "5. Dictionaries/5.1 why dictionaries.md",
     "2. Flow control and looping/2.3 for loop.md",
-    "4. Lists/4.1 syntax.md",
     "3. Strings/3.5 Functions vs Methods.md",
     "3. Strings/3.4 Slices.md",
     "3. Strings/3.3 String as a List.md",
     "3. Strings/3.2 Concatenation.md",
-    "3. Strings/3.1 Converting from and to string.md",
-    "2. Flow control and looping/2.4 when while and when for.md",
-    "2. Flow control and looping/2.2 while loop.md",
-    "2. Flow control and looping/2.1 if statement.md",
-    "1. Data and Processing data/1.4 Mutability- c vs python.md",
-    "1. Data and Processing data/1.3 Mutable vs Immutable datatypes.md",
-    "1. Data and Processing data/1.2 All inputs are strings.md",
-    "1. Data and Processing data/1.1 How integers point to memory.md",
-    "Interview master 100/1. two sum.md",
-    "assets/basics.md",
-    "readme.md",
-    "Pasted image 20241015204957.png"
+    "3. Strings/3.1 Converting from and to string.md"
   ]
 }
