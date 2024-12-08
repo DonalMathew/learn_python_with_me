@@ -1,0 +1,1 @@
+Doing the process of ENCAPSULATION to hide unnecessary details is called Abstraction.

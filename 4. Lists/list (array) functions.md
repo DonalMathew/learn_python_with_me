@@ -26,3 +26,32 @@ while True:
 
 ```
 
+## sort
+```python
+# Example array
+arr = [5, 2, 9, 1, 5, 6]
+
+# Sort in ascending order
+arr.sort()
+print(arr)  # Output: [1, 2, 5, 5, 6, 9]
+```
+
+## rounding decimal points
+```python
+number = 3.141592653589793
+rounded_number = round(number, 6)
+print(rounded_number)  # Output: 3.141593
+```
+
+
+## sum
+```python
+# Example array
+arr = [10, 20, 30, 40, 50, 60, 70]
+
+# Using list comprehension to sum the first 5 elements
+sum_first_five = sum(arr[i] for i in range(5))
+
+print("Sum of the first 5 elements:", sum_first_five)  # Output: 150
+```
+

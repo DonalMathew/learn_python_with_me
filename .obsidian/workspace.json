@@ -83,7 +83,99 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "team formation.md",
+                "file": "previous interviews/team formation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e635ffe93ea0105d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Lists/list (array) functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "382572072d03e7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackerrank/2 mini-max sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3eb13b99095c5a1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20241208111900.png"
+              }
+            }
+          },
+          {
+            "id": "d38e4215e97cdbfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. OOPs/1_encapsulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89b732523cf1818a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. OOPs/1_encapsulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93bbd7fc1bb1cd2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. OOPs/2_abstraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1dcb75ae3e174bf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20241208235022.png"
+              }
+            }
+          },
+          {
+            "id": "93093baf284382b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. OOPs/4_polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -192,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "team formation.md",
+                "file": "6. OOPs/4_polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "team formation.md",
+                "file": "6. OOPs/4_polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "team formation.md"
+                "file": "6. OOPs/4_polymorphism.md"
               }
             }
           }
@@ -253,44 +345,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "844cbcd96b9b0400",
+  "active": "93093baf284382b4",
   "lastOpenFiles": [
-    "Pasted image 20241205185500.png",
-    "assets/Pasted image 20241205144250.png",
-    "team formation.md",
-    "Pasted image 20241205144127.png",
-    "previous interviews/no two toppers in same class.md",
-    "Pasted image 20241205144153.png",
-    "4. Lists/initialise all elements as 0.md",
-    "Pasted image 20241205144045.png",
-    "Pasted image 20241205144052.png",
-    "previous interviews",
+    "6. OOPs/3_inheritance.md",
+    "6. OOPs/2_abstraction.md",
+    "6. OOPs/1_encapsulation.md",
+    "6. OOPs/4_polymorphism.md",
+    "assets/Pasted image 20241208235543.png",
+    "assets/Pasted image 20241209000229.png",
+    "assets/Pasted image 20241209000151.png",
+    "assets/Pasted image 20241209000036.png",
+    "assets/Pasted image 20241209000012.png",
+    "assets/Pasted image 20241208235929.png",
+    "assets/Pasted image 20241208235917.png",
+    "assets/Pasted image 20241208235828.png",
+    "assets/Pasted image 20241208235022.png",
+    "assets/Pasted image 20241208235458.png",
+    "6. OOPs/0_need_for_objects.md",
+    "5. Dictionaries/5.2 look for a key.md",
+    "6. OOPs",
+    "5. Dictionaries/5.3 iterating over dicts.md",
+    "5. Dictionaries/5.4 dicts of dicts.md",
+    "5. Dictionaries/5.5 convert key-value pair in dictionary to items in a list.md",
+    "4. Lists/4.2 strings vs lists.md",
+    "hackerrank/3 time conversion.md",
+    "hackerrank/2 mini-max sum.md",
     "4. Lists/list (array) functions.md",
+    "hackerrank/1. ratio of plus minus.md",
+    "previous interviews/team formation.md",
+    "hackerrank",
+    "previous interviews/no two toppers in same class.md",
+    "4. Lists/initialise all elements as 0.md",
+    "previous interviews",
     "learn dsa/time complexity.md",
     "learn dsa/how to approach a problem.md",
     "Interview master 100/1. two sum.md",
     "codingame/1_the descent.md",
     "readme.md",
     "4. Lists/4.1 syntax.md",
-    "4. Lists/4.2 strings vs lists.md",
     "4. Lists/4.3 conversions.md",
-    "assets/Pasted image 20241203221152.png",
-    "assets/Pasted image 20241203221238.png",
-    "assets/Pasted image 20241203221223.png",
     "learn dsa",
-    "assets/Pasted image 20241015204957.png",
-    "5. Dictionaries/5.6 conversions.md",
-    "3. Strings/all conversions.md",
-    "5. Dictionaries/5.3 iterating over dicts.md",
-    "5. Dictionaries/5.2 look for a key.md",
-    "5. Dictionaries/5.5 convert key-value pair in dictionary to items in a list.md",
-    "5. Dictionaries/5.4 dicts of dicts.md",
-    "5. Dictionaries/5.1 why dictionaries.md",
-    "2. Flow control and looping/2.3 for loop.md",
-    "3. Strings/3.5 Functions vs Methods.md",
-    "3. Strings/3.4 Slices.md",
-    "3. Strings/3.3 String as a List.md",
-    "3. Strings/3.2 Concatenation.md",
-    "3. Strings/3.1 Converting from and to string.md"
+    "5. Dictionaries/5.6 conversions.md"
   ]
 }
