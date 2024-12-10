@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"b0f9b4d5c236907f","type":"text","text":"ec2","x":-320,"y":-160,"width":250,"height":60,"color":"4"},
+		{"id":"cc354d25ea50f08f","type":"text","text":"served as a VM that hosts both the script and the Django\napplication.","x":-320,"y":-100,"width":250,"height":140},
+		{"id":"f7759cf888f2568f","type":"text","text":"Kinesis Firehose","x":340,"y":-160,"width":250,"height":60,"color":"4"},
+		{"id":"806b31994653c240","type":"text","text":"S3 bucket","x":340,"y":140,"width":250,"height":60,"color":"4"},
+		{"id":"343fc34733fec76c","type":"text","text":"Intermediary storage","x":340,"y":200,"width":250,"height":60},
+		{"id":"624399d73d7cdd94","type":"text","text":"amazon redshift","x":880,"y":-160,"width":250,"height":60,"color":"4"},
+		{"id":"4ecc579352113128","type":"text","text":"python etl","x":880,"y":140,"width":250,"height":60,"color":"3"},
+		{"id":"9094baa42f8c45b8","type":"text","text":"contains a python program:\n\nA Python Script simulating real-life social media activity\ngenerates data in JSON format, which is then streamed to the\nDjango API.","x":-520,"y":40,"width":250,"height":300,"color":"3"},
+		{"id":"ebcb3c7a1ec7a11e","type":"text","text":"Django Api:\n\nThe Django API simultaneously posts the data to Amazon\nKinesis Firehose.","x":-160,"y":40,"width":250,"height":190,"color":"3"},
+		{"id":"131532986712349a","type":"text","text":"Amazon Redshift stores the data and formats it into a structured format.","x":880,"y":-290,"width":250,"height":130},
+		{"id":"f823f037ae51a35c","type":"file","file":"assets/Pasted image 20241210230149.png","x":1320,"y":-226,"width":400,"height":192},
+		{"id":"8dd793d936ac1067","type":"file","file":"assets/Pasted image 20241210230214.png","x":-1040,"y":-269,"width":400,"height":279},
+		{"id":"41b7fc8d48b67d6a","type":"text","text":"Firehose controls the streaming data based on predefined\ncriteria, here the data would be sent after 1 minute","x":340,"y":-360,"width":250,"height":200}
+	],
+	"edges":[
+		{"id":"83ae743ee29ad605","fromNode":"b0f9b4d5c236907f","fromSide":"bottom","toNode":"cc354d25ea50f08f","toSide":"top"},
+		{"id":"707ca771bd6f7c7f","fromNode":"9094baa42f8c45b8","fromSide":"right","toNode":"ebcb3c7a1ec7a11e","toSide":"left"},
+		{"id":"d264a63a290c54b7","fromNode":"ebcb3c7a1ec7a11e","fromSide":"right","toNode":"f7759cf888f2568f","toSide":"left"},
+		{"id":"a98128a702265443","fromNode":"f7759cf888f2568f","fromSide":"bottom","toNode":"806b31994653c240","toSide":"right"},
+		{"id":"50747916a675b35c","fromNode":"806b31994653c240","fromSide":"left","toNode":"f7759cf888f2568f","toSide":"bottom"},
+		{"id":"746e0b7bb299de8f","fromNode":"806b31994653c240","fromSide":"bottom","toNode":"343fc34733fec76c","toSide":"top"},
+		{"id":"8a68daff19d4a504","fromNode":"624399d73d7cdd94","fromSide":"bottom","toNode":"4ecc579352113128","toSide":"right"},
+		{"id":"65d765d1bf4aa143","fromNode":"4ecc579352113128","fromSide":"left","toNode":"624399d73d7cdd94","toSide":"bottom"},
+		{"id":"bc66309ee2714bb7","fromNode":"f7759cf888f2568f","fromSide":"right","toNode":"624399d73d7cdd94","toSide":"left"},
+		{"id":"7eeee3a50cb976d0","fromNode":"624399d73d7cdd94","fromSide":"right","toNode":"f823f037ae51a35c","toSide":"left"},
+		{"id":"8f1d595e85768b4f","fromNode":"8dd793d936ac1067","fromSide":"right","toNode":"b0f9b4d5c236907f","toSide":"left"}
+	]
+}

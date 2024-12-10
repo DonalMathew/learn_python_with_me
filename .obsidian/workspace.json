@@ -4,221 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "fe2782d6adac565c",
+        "id": "8a1c895ccf4b7e95",
         "type": "tabs",
         "children": [
           {
-            "id": "70205e10b51863be",
+            "id": "4c0375346247d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "7. Cloud computing/5. miniproject.canvas",
+                "viewState": {
+                  "x": 1484.0757880027643,
+                  "y": -159.783011496779,
+                  "zoom": 1
+                }
+              }
+            }
+          },
+          {
+            "id": "b4081afcfb50e359",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "7. Cloud computing/5. miniproject.canvas",
+                "viewState": {
+                  "x": 340,
+                  "y": -10,
+                  "zoom": -1.3585027097865168
+                }
+              }
+            }
+          },
+          {
+            "id": "85181ef4d9095a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Lists/4.2 strings vs lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec38bf845d574052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13066f0c7bd80bb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn dsa/how to approach a problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec9ff51c851ebf50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Lists/4.1 syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f78fd04af5476ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Lists/list (array) functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5833cc8869d4feb5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20241205144250.png"
-              }
-            }
-          },
-          {
-            "id": "844cbcd96b9b0400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "previous interviews/team formation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e635ffe93ea0105d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Lists/list (array) functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "382572072d03e7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hackerrank/2 mini-max sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3eb13b99095c5a1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20241208111900.png"
-              }
-            }
-          },
-          {
-            "id": "d38e4215e97cdbfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. OOPs/1_encapsulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89b732523cf1818a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. OOPs/1_encapsulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93bbd7fc1bb1cd2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. OOPs/2_abstraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1dcb75ae3e174bf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/Pasted image 20241208235022.png"
-              }
-            }
-          },
-          {
-            "id": "93093baf284382b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. OOPs/4_polymorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cad3aea8a0f45620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Dictionaries/5.6 conversions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a6ae1f41f34bf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "084cea70d1087e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codingame/1_the descent.md",
+                "file": "8. DBMS/1. all commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -284,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. OOPs/4_polymorphism.md",
+                "file": "8. DBMS/1. all commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. OOPs/4_polymorphism.md",
+                "file": "8. DBMS/1. all commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. OOPs/4_polymorphism.md"
+                "file": "8. DBMS/1. all commands.md"
               }
             }
           }
@@ -345,23 +177,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93093baf284382b4",
+  "active": "b151a3b6432d9939",
   "lastOpenFiles": [
+    "7. Cloud computing/5. miniproject.canvas",
+    "8. DBMS/1. all commands.md",
+    "7. Cloud computing/4. miniproject.md",
+    "assets/Pasted image 20241210224644.png",
+    "8. DBMS",
+    "assets/Pasted image 20241210230459.png",
+    "assets/Pasted image 20241210230450.png",
+    "assets/Pasted image 20241210230436.png",
+    "assets/Pasted image 20241210230416.png",
+    "previous interviews/team formation.md",
+    "readme.md",
+    "5. Dictionaries/5.6 conversions.md",
+    "assets/Pasted image 20241210230214.png",
+    "assets/Pasted image 20241210230149.png",
+    "assets/Pasted image 20241210225713.png",
+    "7. Cloud computing/3. Neetcode video.canvas",
+    "7. Cloud computing/2. NeetCode video based.md",
+    "7. Cloud computing/1.  PaaS, SaaS, IaaS.md",
+    "assets/set1/Pasted image 20241209000012.png",
+    "assets/set1/a.png",
+    "assets/set1",
+    "6. OOPs/0_need_for_objects.md",
+    "6. OOPs/4_polymorphism.md",
+    "7. Cloud computing",
     "6. OOPs/3_inheritance.md",
     "6. OOPs/2_abstraction.md",
     "6. OOPs/1_encapsulation.md",
-    "6. OOPs/4_polymorphism.md",
-    "assets/Pasted image 20241208235543.png",
-    "assets/Pasted image 20241209000229.png",
-    "assets/Pasted image 20241209000151.png",
-    "assets/Pasted image 20241209000036.png",
-    "assets/Pasted image 20241209000012.png",
-    "assets/Pasted image 20241208235929.png",
-    "assets/Pasted image 20241208235917.png",
-    "assets/Pasted image 20241208235828.png",
-    "assets/Pasted image 20241208235022.png",
-    "assets/Pasted image 20241208235458.png",
-    "6. OOPs/0_need_for_objects.md",
     "5. Dictionaries/5.2 look for a key.md",
     "6. OOPs",
     "5. Dictionaries/5.3 iterating over dicts.md",
@@ -372,19 +216,12 @@
     "hackerrank/2 mini-max sum.md",
     "4. Lists/list (array) functions.md",
     "hackerrank/1. ratio of plus minus.md",
-    "previous interviews/team formation.md",
     "hackerrank",
     "previous interviews/no two toppers in same class.md",
     "4. Lists/initialise all elements as 0.md",
     "previous interviews",
     "learn dsa/time complexity.md",
     "learn dsa/how to approach a problem.md",
-    "Interview master 100/1. two sum.md",
-    "codingame/1_the descent.md",
-    "readme.md",
-    "4. Lists/4.1 syntax.md",
-    "4. Lists/4.3 conversions.md",
-    "learn dsa",
-    "5. Dictionaries/5.6 conversions.md"
+    "learn dsa"
   ]
 }

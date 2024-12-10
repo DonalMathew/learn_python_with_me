@@ -1,4 +1,4 @@
-### - [python basics](/assets/basics.md)
+### - [python basics](basics.md)
 
 python intermediate video tutorial: https://www.youtube.com/watch?v=hVcEv7rEN24&list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk
 
