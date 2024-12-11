@@ -48,9 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a80f670a9a02f77f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Neetcode video summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DBMS/1. all commands.md",
+                "file": "1. Neetcode video summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. DBMS/1. all commands.md",
+                "file": "1. Neetcode video summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. DBMS/1. all commands.md"
+                "file": "1. Neetcode video summary.md"
               }
             }
           }
@@ -177,9 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b151a3b6432d9939",
+  "active": "a80f670a9a02f77f",
   "lastOpenFiles": [
     "7. Cloud computing/5. miniproject.canvas",
+    "1. Neetcode video summary.md",
+    "9. System Design",
     "8. DBMS/1. all commands.md",
     "7. Cloud computing/4. miniproject.md",
     "assets/Pasted image 20241210224644.png",
@@ -221,7 +235,6 @@
     "4. Lists/initialise all elements as 0.md",
     "previous interviews",
     "learn dsa/time complexity.md",
-    "learn dsa/how to approach a problem.md",
     "learn dsa"
   ]
 }
